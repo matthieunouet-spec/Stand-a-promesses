@@ -1,13 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"player_obj",
+  "%Name":"balles_obj",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":53,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"player_obj",
+  "name":"balles_obj",
   "overriddenProperties":[],
   "parent":{
     "name":"Objets",
@@ -31,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"balles_spr",
+    "path":"sprites/balles_spr/balles_spr.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

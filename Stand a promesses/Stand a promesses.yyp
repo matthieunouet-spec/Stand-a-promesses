@@ -23,10 +23,12 @@
   },
   "name":"Stand a promesses",
   "resources":[
+    {"id":{"name":"balles_obj","path":"objects/balles_obj/balles_obj.yy",},},
     {"id":{"name":"panier_obj","path":"objects/panier_obj/panier_obj.yy",},},
     {"id":{"name":"player_obj","path":"objects/player_obj/player_obj.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"player_spr","path":"sprites/player_spr/player_spr.yy",},},
+    {"id":{"name":"balles_spr","path":"sprites/balles_spr/balles_spr.yy",},},
+    {"id":{"name":"pannier_spr","path":"sprites/pannier_spr/pannier_spr.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
