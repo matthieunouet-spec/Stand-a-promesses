@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"pop_up_generator",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"pop_up_generator",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
